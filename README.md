@@ -14,6 +14,13 @@ Reguły są instrukcjami wykonywanymi przez ChatGPT. GitHub służy do ich dystr
 
 W pierwotnej konfiguracji jeden harmonogram obsługiwał cztery osoby, a wersję 2.0 uruchomiono pilotażowo dla jednej. To przykład organizacji pracy. Dostępność wysyłki w tle i liczba obsługiwanych osób zależą od narzędzi, limitów konta, zakresu skanu i liczby generowanych CV. Przed dodaniem kolejnych osób sprawdź pełny przebieg dla siebie.
 
+
+## BestFood AI
+
+**BestFood** to asystent AI do prowadzenia dziennika żywieniowego: rozpoznaje posiłki ze zdjęć, szacuje gramaturę i kcal, obsługuje prywatnie konfigurowane skróty posiłków i może zapisywać dane do prywatnego arkusza po podłączeniu odpowiedniego narzędzia.
+
+Aby rozpocząć, otwórz [instrukcję BestFood](bestfood/README.md), dołącz [reguły](bestfood/REGULY.md) do własnego projektu ChatGPT i wykorzystaj [prompt startowy](bestfood/START.md). [Konfiguracja arkusza](bestfood/SETUP.md) jest opcjonalna. Repozytorium nie zawiera historii posiłków ani danych zdrowotnych.
+
 ## Feedback i sugestie
 
 Feedback i sugestie dotyczące BestJob kieruj na adres [bartosz.pawliczak.ai@gmail.com](mailto:bartosz.pawliczak.ai@gmail.com).
