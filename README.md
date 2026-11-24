@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bestAiaI-banner.jpg" alt="bestAiaI — OKiełZNAJ AI" width="100%">
+</p>
+
 # bestAiaI
 
 **BestJob** pomaga przejść od ogłoszenia do decyzji o aplikowaniu. Codziennie sprawdza oferty pod kątem Twoich warunków, przygotowuje CV i wykorzystuje odpowiedzi na poprzednie rekomendacje. W wersji 2.0 możesz też wybierać umiejętności do nauki i odpowiadać na pytania rekrutacyjne.
@@ -15,7 +19,7 @@ Reguły są instrukcjami wykonywanymi przez ChatGPT. GitHub służy do ich dystr
 W pierwotnej konfiguracji jeden harmonogram obsługiwał cztery osoby, a wersję 2.0 uruchomiono pilotażowo dla jednej. To przykład organizacji pracy. Dostępność wysyłki w tle i liczba obsługiwanych osób zależą od narzędzi, limitów konta, zakresu skanu i liczby generowanych CV. Przed dodaniem kolejnych osób sprawdź pełny przebieg dla siebie.
 
 
-## BestFood AI
+## BestFood
 
 **BestFood** to asystent AI do prowadzenia dziennika żywieniowego: rozpoznaje posiłki ze zdjęć, szacuje gramaturę i kcal, obsługuje prywatnie konfigurowane skróty posiłków i może zapisywać dane do prywatnego arkusza po podłączeniu odpowiedniego narzędzia.
 
